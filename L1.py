@@ -1,4 +1,4 @@
 a = 70
 b = 90
-c = a*b
+c = a * b
 print(c)
