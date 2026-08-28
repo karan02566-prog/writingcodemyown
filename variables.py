@@ -1,0 +1,11 @@
+name=input("tell me your name: ")
+age=input("what's your age: ")
+collge=input("what's your college name: ")
+course=input("what is your course: ")
+semester=input("in which semester you're : ")
+
+print("hello",name)
+print("i'm",age,"old")
+print("my college name is",collge)
+print("i'm studying",course)
+print("i'm currently in",semester,"semester")
