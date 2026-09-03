@@ -9,3 +9,14 @@
 # def greet(name):
 #     print("hello", name, "how are you?")
 # greet("karan")
+
+def double(x):
+    print(x*x)
+double(25)
+
+#positional arguement
+# the position you write parameters or placeholder in the sequence python take values as same as them.
+
+def subtract(a, b):
+    print(a-b)
+subtract(25, 21)
