@@ -23,13 +23,24 @@
 
 # multiple arguement
 
-def average(a, b, c, d):
-    result = (a+b+c+d)/4
-    print(result)
-average(12, 24, 56, 89)
+# def average(a, b, c, d):
+#     result = (a+b+c+d)/4
+#     print(result)
+# average(12, 24, 56, 89)
 
 
-def sum(a, b, c):
-    rizz = (a+b+c)
-    print(rizz)
-sum(777, 888, 999)
+# def sum(a, b, c):
+#     rizz = (a+b+c)
+#     print(rizz)
+# sum(777, 888, 999)
+
+#keyword arguement
+
+def bmi(weight, height):
+    print(weight/(height*height))
+bmi(height=1.7, weight=75)
+
+def sum(pen, pencil, bottle):
+    amount = (pen*2, pencil*8, bottle)
+    print(amount)
+sum(pencil=14, pen=20, bottle=90)
