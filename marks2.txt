@@ -1,1 +1,102 @@
-karab is chasing his dreamsyou all should do thatnot gonna giveup halfway
+
+
+Introduction to Programming & Python | Python Tutorial - Day #1
+
+Some Amazing Python Programs - The Power of Python | Python Tutorial - Day #2
+
+Modules and Pip | Python Tutorial - Day #3
+
+Our First Python Program | Python Tutorial - Day #4
+
+Comments, Escape Sequences & Print Statement | Python Tutorial - Day #5
+
+Variables and Data Types | Python Tutorial - Day #6
+
+Exercise 1: Calculator using Python | Python Tutorial - Day #7
+
+Exercise 1: Calculator using Python (Solution) | Python Tutorial - Day #8
+
+Typecasting in Python | Python Tutorial - Day #9
+
+Taking User Input in Python | Python Tutorial - Day #10
+
+Strings in Python | Python Tutorial - Day #11
+
+Strings Slicing and Operations on Strings in Python | Python Tutorial - Day #12
+
+String Methods in Python | Python Tutorial - Day #13
+
+If Else Conditional Statements in Python | Python Tutorial - Day #14
+
+Exercise 2: Good Morning Sir | Python Tutorial - Day #15
+
+Match Case Statements in Python | Python Tutorial - Day #16
+
+For Loops in Python | Python Tutorial - Day #17
+
+While Loops in Python | Python Tutorial - Day #18
+
+
+break and continue in Python | Python Tutorial - Day #19
+
+Functions in Python | Python Tutorial - Day #20
+
+Function Arguments in Python | Python Tutorial - Day #21
+
+Introduction to Lists in Python | Python Tutorial - Day #22
+
+List Methods in Python | Python Tutorial - Day #23
+
+Tuples in Python | Python Tutorial - Day #24
+
+Operations on Tuples in Python | Python Tutorial - Day #25
+
+Exercise 2: Solution & Shoutouts | Python Tutorial - Day #26
+
+Exercise 3: Kaun Banega Crorepati (KBC) | Python Tutorial - Day #27
+
+f-strings in Python | Python Tutorial - Day #28
+
+Docstrings in Python | Python Tutorial - Day #29
+
+Recursion in Python | Python Tutorial - Day #30
+
+Sets in Python | Python Tutorial - Day #31
+
+Set Methods in Python | Python Tutorial - Day #32
+
+Dictionaries in Python | Python Tutorial - Day #33
+
+Dictionary Methods in Python | Python Tutorial - Day #34
+
+for Loop with else in Python | Python Tutorial - Day #35
+
+Exception Handling in Python | Python Tutorial - Day #36
+
+Finally keyword in Python | Python Tutorial - Day #37
+
+Raising custom errors in Python | Python Tutorial - Day #38
+
+Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts | Python Tutorial - Day #39
+
+Exercise 4: Secret Code Language | Python Tutorial - Day #40
+
+Short hand if else statements | Python Tutorial - Day #41
+
+Enumerate Function in Python | Python Tutorial - Day #42
+
+Virtual Environment in Python | Python Tutorial - Day #43
+
+How import works in Python | Python Tutorial - Day #44
+
+if __name__ == "__main__" in Python | Python Tutorial - Day #45
+
+os Module in Python | Python Tutorial - Day #46
+
+Exercise 4: Solutions and Shoutouts | Python Tutorial - Day #47
+
+Local vs Global Variables in Python| Python Tutorial - Day #48
+
+File IO in Python | Python Tutorial - Day #49
+
+read(), readlines() and other methods | Python Tutorial - Day #50
