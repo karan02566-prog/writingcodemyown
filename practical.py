@@ -10,16 +10,25 @@
 #         continue
 #     print(i)
 
-num = int(input("enter a number: "))
+# num = int(input("enter a number: "))
 
-if num % 2 == 0:
-    print("num is even")
-else:
-    print("num is odd")
-
-
-def power(x, n=2):
-    return(x*x) 
+# if num % 2 == 0:
+#     print("num is even")
+# else:
+#     print("num is odd")
 
 
-print(power(5))
+# def power(x, n=2):
+#     return(x*x) 
+
+
+# print(power(5))
+
+# for i in range(1,11):
+#     print(i)
+
+
+# i = 1
+# while i <= 5:
+#     print(i)
+#     i += 1
