@@ -59,8 +59,10 @@ contacts["rahul"] = {
     "phone": "9999999999",
     "email": "rahul@gmail.com"
 }
-
+contacts["Karan"]["phone"] = "8446865438"
 #  print(contacts)
 # print(contacts["rahul"])
 # print(contacts["rahul"]["email"])
 print(contacts["Karan"]["phone"])
+del contacts['rahul']
+print(contacts)
