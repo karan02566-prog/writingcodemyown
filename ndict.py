@@ -25,3 +25,23 @@ dog['breed'] = 'golden retrevier'
 dog['legs'] = 3
 print(dog)
 
+student = {
+    "first name" : "karan",
+    "last name" : "thakur",
+    "age" : 19,
+    "gender" : "male",
+    "martial status" : "taken",
+    "country" : "india",
+    "skills" : ["python", "SQL", "youtbe", "a bit of maths"],
+    "adress" : {
+        "house no." : 868,
+        "street" : "4th venue",
+        "area" : "south extension",
+        "state" : "new delhi",
+        "pin code" : 110003
+
+    }
+
+    }
+
+print(student)
